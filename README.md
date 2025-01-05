@@ -1,4 +1,4 @@
-# Welcome to BashOps Technologies! 👋
+# Welcome to BashOps! 👋
 
 ## About Us
 We are BashOps Technologies, a dynamic team passionate about delivering top-notch DevOps and Cloud services. Our mission is to empower businesses with innovative solutions and streamline their journey to the cloud.
